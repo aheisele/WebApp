@@ -8,7 +8,7 @@ Imports System.Runtime.InteropServices
 
 ' Revisar los valores de los atributos del ensamblado
 <Assembly: AssemblyTitle("WebApplication2")>
-<Assembly: AssemblyDescription("sss")>
+<Assembly: AssemblyDescription("sssAAA")>
 <Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("WebApplication2")>
 <Assembly: AssemblyCopyright("Copyright ©  2019")>
